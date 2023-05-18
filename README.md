@@ -3,9 +3,11 @@ Script for cheating at skribble ;)
 
 # Usage
 Command Line prompt:
+
 'python3 scribble.py {length of word}'
 
 Inputs:
+
 Enter letter and position as you get clues (eg. a3)
 
 0 to reset
