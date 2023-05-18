@@ -4,7 +4,7 @@ Script for cheating at skribble ;)
 # Usage
 Command Line prompt:
 
-'python3 scribble.py {length of word}'
+'python3 scribble.py {length of word}' (eg. python3 scribble.py 10)
 
 Inputs:
 
